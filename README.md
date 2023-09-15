@@ -10,8 +10,7 @@
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción
-Esta aplicación móvil fue desarrollada como parte de la Tarea 3 en la asignatura de Desarrollo Móvil Integral. La aplicación tiene como objetivo crear nuestr primera app en flutter.
-
+Creación de primera app con widgets stateless
 ## Características
 - Título de la aplicación: Practica 5: 200570
 - aplicación con widgets stateless
